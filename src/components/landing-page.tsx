@@ -393,8 +393,8 @@ export function LandingPageComponent() {
                 className="mx-auto mb-4 rounded-full"
               />
               <p className="text-cafe-green mb-4 italic">
-                "El mejor café que he probado en mi vida. El tour por la finca
-                fue una experiencia inolvidable."
+                `El mejor café que he probado en mi vida. El tour por la finca
+                fue una experiencia inolvidable.`
               </p>
               <p className="text-cafe-red font-bold">- María Rodríguez</p>
             </div>
@@ -407,8 +407,8 @@ export function LandingPageComponent() {
                 className="mx-auto mb-4 rounded-full"
               />
               <p className="text-cafe-green mb-4 italic">
-                "Aprendí tanto en el taller de catación. Ahora aprecio mucho más
-                cada taza de café."
+                `Aprendí tanto en el taller de catación. Ahora aprecio mucho más
+                cada taza de café.`
               </p>
               <p className="text-cafe-red font-bold">- Carlos Gómez</p>
             </div>
@@ -421,8 +421,8 @@ export function LandingPageComponent() {
                 className="mx-auto mb-4 rounded-full"
               />
               <p className="text-cafe-green mb-4 italic">
-                "La pasión que tienen por el café es evidente en cada detalle.
-                Una experiencia que recomiendo a todos."
+                `La pasión que tienen por el café es evidente en cada detalle.
+                Una experiencia que recomiendo a todos.`
               </p>
               <p className="text-cafe-red font-bold">- Ana Martínez</p>
             </div>
